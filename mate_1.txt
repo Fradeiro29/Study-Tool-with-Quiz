@@ -1,0 +1,25 @@
+-El techo de una tienda vista desde arriba tiene la forma de un romboide, si el área de este romboide es de 60 m^2 y su altura es de 4 m. ¿Cuántos metros mide el lado más largo de dicho romboide?
+66 m
+=15 m
+56 m
+240 m
+-Adriana y Luisa fueron a la feria y decidieron subirse a la rueda de la fortuna; si el diámetro de la rueda es de 8 metros, ¿qué recorrido hicieron dando una vuelta completa? Considera Pi = 3.14
+50.26
+=25.12
+12.56
+11.14
+-Luis requiere comprar 150.38 dólares para comprar un artículo por Internet. ¿Cuántos pesos debió pagar si el tipo de cambio estaba en $10.90?
+=$1639.14
+$1639.36
+$1654.18
+$1654.40
+-Un ciclista desea saber cuánto avanza al dar una vuelta completa las llantas de su bicicleta, si el radio de la rueda es de 33.5 cm y el grosor de la llanta es de 2.5 cm, ¿cuánto avanza al dar una vuelta completa? Considerar Pi= 3.14
+2.10 m
+2.16 m
+=2.26 m
+1.13 m
+-Don Fidel es socio de una empresa. Al inicio de cada año invierte cierta cantidad de dinero y al final del año la empresa le devuelve 2.5 veces la cantidad inicial. ¿Cuánto invirtió don Fidel si al final del año le dieron $10 853.75?
+$434.15
+=$4341.50
+$5149.50
+$27184.37

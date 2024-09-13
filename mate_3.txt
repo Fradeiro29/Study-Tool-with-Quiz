@@ -1,0 +1,25 @@
+-En la alameda de mi colonia trazaron sobre el jardín central, varias figuras geométricas rellenas de flores. Entre ellas destacan dos que son semejantes entre sí, ambas son triángulos. La base del más grande es de 15 m y su altura es de 7m. Si la base homóloga del otro mide 3.75m, ¿cuál es la altura que tiene este otro triángulo? (Aproxima el resultado a centésimos)
+4.00 m
+2.14 m
+1.86 m
+=1.75 m
+-Se extrae una bola de una urna que contiene 4 bolas rojas, 5 blancas y 6 negras. ¿Cuál es la probabilidad de que la bola sea roja o blanca?
+1/15
+1/9
+=3/5
+4/5
+-Tengo una escalera de dos metros de longitud; cuando la apoyo en la pared, el extremo inferior queda separado a un metro de dicha pared. ¿A qué altura del piso está el extremo superior de la escalera? (Aproxima o trunca tu resultado a centésimos)
+=1.73 m
+3.00 m
+2.23 m
+5.00 m
+-El largo de una cancha de futbol es 45 metros más grande que su ancho. Si el área es de 4050 m2, ¿cuál es la ecuación que permite calcular los lados del rectángulo?
+x^2 - 45x - 4050 = 0
+x^2 + 45x + 4050 = 0
+x^2 - 45 + 4050 = 0
+=x^2 + 45x - 4050 = 0
+-El equipo directivo de una empresa esta constituido por 25 personas, 60% son mujeres y el gerente sabe que sólo 5 mujeres y 3 hombres no hablan inglés, pero él debe elegir uno al azar para una representación internacional. ¿Cuál es la probabilidad de que el gerente elija alguien que hable inglés?
+8/60
+=17/25
+17/60
+8/25

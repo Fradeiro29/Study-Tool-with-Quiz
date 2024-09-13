@@ -1,0 +1,25 @@
+-De acuerdo con los resultados de una encuesta sobre el tipo de películas preferidas, 1 de cada 5 personas eligen las de terror, 4 de cada 10 prefieren las de acción, 4 de cada 20 elige las cintas infantiles y 3 de cada 15 prefiere las comedias. ¿Cuál de los cuatro tipos de películas tiene la mayor proporción de preferencias?
+=Las de acción
+Las comedias
+Las infantiles
+Las de terror
+-Para cubrir un piso se estaban colocando losetas en forma de hexágonos regulares pero se acabaron y quedaron algunos huecos. ¿Con qué tipo de figuras regulares se puede completar el piso, sin hacer cortes a las nuevas losetas?
+Octágonos
+Pentágonos
+Cuadrados
+=Triángulos
+-Un avión hace cuatro vuelos diarios a Zacatecas. Ayer voló con pasaje completo en las cuatro ocasiones. Hoy, las estadísticas de los cuatro vuelos son las siguientes: lleno, 135 pasajeros, 128 pasajeros y lleno. Si ayer viajaron 37 pasajeros más que hoy, ¿cuál es el cupo del avión?
+300 pasajeros
+226 pasajeros
+263 pasajeros
+=150 pasajeros
+-Si la suma de los ángulos interiores de un polígono es igual a 3240°, ¿cuántos lados tienen el polígono?
+=20
+18
+10
+9
+-Doña Sofía tiene una tienda de abarrotes y al final del día vendió n kg de azúcar de un costal que tenía m kg. ¿Cuál de las siguientes expresiones nos permite saber cuántos kg de azúcar vendió ese día?
+m/n
+m-n
+n-m
+=n/m
